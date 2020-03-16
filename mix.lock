@@ -1,0 +1,7 @@
+%{
+  "benchee": {:hex, :benchee, "1.0.1", "66b211f9bfd84bd97e6d1beaddf8fc2312aaabe192f776e8931cb0c16f53a521", [:mix], [{:deep_merge, "~> 1.0", [hex: :deep_merge, repo: "hexpm", optional: false]}], "hexpm"},
+  "deep_merge": {:hex, :deep_merge, "1.0.0", "b4aa1a0d1acac393bdf38b2291af38cb1d4a52806cf7a4906f718e1feb5ee961", [:mix], [], "hexpm"},
+  "genex": {:hex, :genex, "0.2.1", "536df5bb559fdf6e641c3376a09fe913698450ad9a30fd1cd3ed178315d2b4d4", [:mix], [{:benchee, "~> 1.0", [hex: :benchee, repo: "hexpm", optional: false]}, {:libgraph, "~> 0.13.0", [hex: :libgraph, repo: "hexpm", optional: false]}, {:table_rex, "~> 2.0.0", [hex: :table_rex, repo: "hexpm", optional: false]}], "hexpm"},
+  "libgraph": {:hex, :libgraph, "0.13.3", "20732b7bafb933dcf7351c479e03076ebd14a85fd3202c67a1c197f4f7c2466b", [:mix], [], "hexpm"},
+  "table_rex": {:hex, :table_rex, "2.0.0", "712783cbc2decb4d644d2ab8ad9315294f960c41b2cf0539308164922e352084", [:mix], [], "hexpm"},
+}
