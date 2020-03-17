@@ -8,4 +8,10 @@ This algorithm uses [genex](https://www.github.com/seanmor5/genex) and [libgraph
 
 The algorithm produces a list of edges to remove from the network. These edges represent connections---essentially the algorithm tells you which edges will effectively mitigate the spread of infection.
 
+To run, clone this directory and run `iex -S mix`. From `iex` type the following:
+
+```elixir
+iex> CovidGa.run()
+```
+
 
